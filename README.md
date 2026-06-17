@@ -253,22 +253,24 @@ source sql/credit_risk_analysis.sql
 
 ## 📁 Screenshots
 
-> *(Add your dashboard screenshots to the `/screenshots` folder and they will display here)*
+### Overview
+![Overview](screenshots/overview_page.png)
 
----
+### Default Risk Drivers
+![Default Risk Drivers](screenshots/default_drivers.png)
 
-## 🔮 Potential Next Steps
 
-- Build a logistic regression or decision tree model to predict default probability using these features
-- Add a loan origination date column to enable time-series default rate tracking
-- Incorporate macroeconomic indicators (interest rate environment, unemployment rate) for external context
-- Create a what-if parameter in Power BI to model how tightening Grade G/F lending criteria affects overall portfolio risk
+### Borrower Profile
+![Borrower Profile](screenshots/borrower_profile.png)
+
+### Excel Dashboard
+![Excel Dashboard](screenshots/excel_dashboard.png)
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**
+**[Sifiso Mngomezulu]**
 📧 [your.email@example.com]
 🔗 [LinkedIn Profile URL]
 💼 [Portfolio URL]
