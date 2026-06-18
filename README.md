@@ -271,8 +271,8 @@ source sql/credit_risk_analysis.sql
 ## 👤 Author
 
 **[Sifiso Mngomezulu]**
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile URL]
+📧 [mngomezulusifiso07@gmail.com]
+🔗 [www.linkedin.com/in/sifiso-mngomezulu-774956417]
 💼 [Portfolio URL]
 
 ---
