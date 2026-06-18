@@ -273,7 +273,7 @@ source sql/credit_risk_analysis.sql
 **[Sifiso Mngomezulu]**
 📧 [mngomezulusifiso07@gmail.com]
 🔗 [www.linkedin.com/in/sifiso-mngomezulu-774956417]
-💼 [Portfolio URL]
+💼 [https://datascienceportfol.io/mngomezulusifiso07]
 
 ---
 
